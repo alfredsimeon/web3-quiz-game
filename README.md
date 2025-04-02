@@ -14,7 +14,7 @@ A simple interactive quiz game designed to test your knowledge about Web3 and bl
 1. **Clone or Download the Repository**:
    - To clone: 
      ```bash
-     git clone https://github.com/<your-username>/web3-quiz-game.git
+     git clone https://github.com/alfredsimeon/web3-quiz-game.git
      ```
    - To download, click the green "Code" button and select "Download ZIP."
 
